@@ -12,5 +12,5 @@ db.connect((err)=>{
         console.log(err.message);
         return;
     }
-    console.log("Database connected");
+    console.log("Database connected Ok");
 });
